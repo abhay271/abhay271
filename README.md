@@ -1,8 +1,3 @@
-Thanks for the info! Here’s a standout profile README draft for you, highlighting your journey, interests, and repositories.
-
-If you’d like to make any changes or add more details, just let me know!
-
-````markdown name=README.md
 # Hi, I'm Abhay! 👋
 
 I'm a junior year student at RV College of Engineering, Bangalore (RVCE), exploring the world of tech one project at a time.
@@ -22,4 +17,3 @@ When I'm not coding, you'll probably find me on the football field or catching u
 > “Learning never exhausts the mind.” — Leonardo da Vinci
 
 Thanks for stopping by! Drop a ⭐️ if you like something, or connect through issues and discussions.
-````
