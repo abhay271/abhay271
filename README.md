@@ -23,6 +23,9 @@
 
 ## 🚀 Tech Stack
 
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&theme=github_dark&line1=javascript,react,nodejs&line2=mongodb,mysql,python&line3=express,mongoose,git" alt="Tech Stack" />
+</div>
 
 ### 🎨 **Frontend Technologies**
 ![React.js](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -106,34 +109,9 @@
 ## 🏗️ **Featured Projects**
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🍔 Food View Platform</h3>
-        <p align="center">
-          <a href="https://github.com/abhay271/Youtube-project-food-view" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhay271&repo=Youtube-project-food-view&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Food View Project" />
-          </a>
-        </p>
-        <p align="center">
-          <strong>MERN Stack • MongoDB • Express • React • Node.js</strong><br/>
-          A TikTok-style food video platform with user authentication, video uploads, and social features
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔍 More Projects</h3>
-        <p align="center">
-          <a href="https://github.com/abhay271?tab=repositories">
-            <img src="https://img.shields.io/badge/View%20All%20Projects-00d4aa?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
-          </a>
-        </p>
-        <p align="center">
-          <strong>Multiple Projects</strong><br/>
-          Including ML models, web apps, APIs, and data analysis projects
-        </p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/abhay271?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-00d4aa?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
 </div>
 
 ---
@@ -146,17 +124,23 @@
 - Integrated AI-based proctoring via TensorFlow, and WebRTC for real-time identity verification and integrity scoring.
 - Deployed blockchain-backed certification on Ethereum (ERC-721) with Solidity smart contracts and IPFS-based credential storage.
 
+**Repository:** [Exam-Proctor-With-Foolproof-Certificates-Using-Blockchain](https://github.com/abhay271/Exam-Proctor-With-Foolproof-Certificates-Using-Blockchain.git)
+
 ### OptiTrace — AI Driven Optic Fiber Fault Detection and Localization
 - Built an interactive Streamlit dashboard integrating TensorFlow and scikit-learn models for OTDR fault classification, regression-based localization, and reflectance/loss estimation.
 - Optimized a Google Colab–driven pipeline with normalization, feature scaling, and noise reduction to ensure robustness across heterogeneous OTDR datasets.
 - Implemented multi-source ingestion (CSV, manual, synthetic generation) and Plotly-based 2D/3D visualizations for advanced trace exploration.
 - Deployed LightGBM, Random Forest, and regression baselines with automated model/scaler loading, error handling, and export-ready analytical reports.
 
+**Repository:** [Optic-Fibre-Fault-Prediction-And-Localization](https://github.com/abhay271/Optic-Fibre-Fault-Prediction-And-Localization.git)
+
 ### CardDetectML — Credit card fraud detection using ensemble models
 - Performed advanced exploratory data analysis on the Kaggle credit card fraud dataset with feature engineering, correlation mapping, and outlier treatment.
 - Implemented data balancing using SMOTE and undersampling to mitigate severe class imbalance and stabilize training.
 - Optimized and benchmarked ensemble classifiers — Random Forest, AdaBoost, XGBoost, and LightGBM — with hyperparameter tuning for maximum precision-recall tradeoff.
 - Deployed a production-ready Streamlit web app integrating visualization, model comparison dashboards, and real-time fraud prediction.
+
+**Repository:** [Credit-Card-Fraud-Analysis-And-Model-Comparison](https://github.com/abhay271/Credit-Card-Fraud-Analysis-And-Model-Comparison.git)
 
 ---
 
