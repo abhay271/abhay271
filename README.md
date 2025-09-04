@@ -160,11 +160,6 @@
 
 ## 🎯 **What I'm Looking For**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Role-Backend%20Developer-00d4aa?style=for-the-badge&logo=code&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Type-Full%20Time-00d4aa?style=for-the-badge&logo=clock&logoColor=white" alt="Type" />
-  <img src="https://img.shields.io/badge/Remote-Hybrid%20%7C%20On-site-00d4aa?style=for-the-badge&logo=location&logoColor=white" alt="Remote" />
-</div>
 
 **I'm passionate about:**
 - 🚀 Building scalable backend systems and APIs
