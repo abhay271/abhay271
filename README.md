@@ -13,6 +13,13 @@
 
 ---
 
+## 🎓 Education
+
+- **R.V College of Engineering** — B.E in Computer Science and Engineering — CGPA: 9.68 (2023–2027)
+- **Sri Vidya Mandir Independent P.U College** — 12th Board Exams: 98.3% (2023)
+
+---
+
 ## 🎯 Daily Quote
 
 <div align="center">
@@ -83,13 +90,6 @@
     </tr>
   </table>
 </div>
-
----
-
-## 🎓 Education
-
-- **R.V College of Engineering** — B.E in Computer Science and Engineering — CGPA: 9.68 (2023–2027)
-- **Sri Vidya Mandir Independent P.U College** — 12th Board Exams: 98.3% (2023)
 
 ---
 
