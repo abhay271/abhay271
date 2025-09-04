@@ -1,7 +1,7 @@
 # Hi, I'm Abhay! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Backend+Developer;Data+Science+Enthusiast;MERN+Stack+Developer;Node.js+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI/ML;Fullstack+Web+Dev;Data+Science" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00d4aa?style=for-the-badge&logo=code&logoColor=white" alt="Experience" />
 </div>
 
-**Backend Developer | Data Science Enthusiast | MERN Stack | Fiber Fault Prediction | Node.js Fan**
+** AI/ML | Fullstack Web Dev | Data Science  **
 
 ---
 
-## 🎯 Daily Motivation
+## 🎯 Daily Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
@@ -24,9 +24,6 @@
 
 ## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&theme=github_dark&line1=javascript,react,nodejs&line2=mongodb,mysql,python&line3=express,mongoose,git" alt="Tech Stack" />
-</div>
 
 ### 🎨 **Frontend Technologies**
 ![React.js](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
