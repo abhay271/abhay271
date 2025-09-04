@@ -23,9 +23,6 @@
 
 ## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&theme=github_dark&line1=javascript,react,nodejs&line2=mongodb,mysql,python&line3=express,mongoose,git" alt="Tech Stack" />
-</div>
 
 ### 🎨 **Frontend Technologies**
 ![React.js](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
