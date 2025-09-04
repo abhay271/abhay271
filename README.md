@@ -1,16 +1,15 @@
 # Hi, I'm Abhay! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI/ML;Fullstack+Web+Dev;Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=AI%2FML;Fullstack+Web+Dev;Data+Science" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-00d4aa?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Location-India-00d4aa?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00d4aa?style=for-the-badge&logo=code&logoColor=white" alt="Experience" />
 </div>
 
-** AI/ML | Fullstack Web Dev | Data Science  **
+**AI/ML | Fullstack Web Dev | Data Science**
 
 ---
 
@@ -24,6 +23,9 @@
 
 ## 🚀 Tech Stack
 
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&theme=github_dark&line1=javascript,react,nodejs&line2=mongodb,mysql,python&line3=express,mongoose,git" alt="Tech Stack" />
+</div>
 
 ### 🎨 **Frontend Technologies**
 ![React.js](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -87,34 +89,20 @@
 
 ---
 
-## 🏆 **Key Achievements**
+## 🎓 Education
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Projects%20Completed-15+-00d4aa?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  <img src="https://img.shields.io/badge/Code%20Contributions-500+-00d4aa?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Technologies%20Mastered-20+-00d4aa?style=for-the-badge&logo=code&logoColor=white" alt="Technologies" />
-</div>
+- **R.V College of Engineering** — B.E in Computer Science and Engineering — CGPA: 9.68 (2023–2027)
+- **Sri Vidya Mandir Independent P.U College** — 12th Board Exams: 98.3% (2023)
 
 ---
 
-## 🎨 GitHub Stats
+## 🧰 Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay271&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&include_all_commits=true&hide_rank=true" alt="Abhay's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay271&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay271&theme=github-dark&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4aa&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌟 **Activity & Contributions**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay271&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=c9d1d9&area=true&area_color=00d4aa&area_alpha=0.1" alt="Contribution Graph" />
-</div>
+- **Programming Languages:** C, C++, Python, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** Node.js, React.js, NumPy, Pandas, Scikit-learn, TensorFlow
+- **Databases:** MySQL, MongoDB
+- **Developer Tools:** Git, GitHub, Visual Studio Code
+- **Areas of Interest:** Backend Development, Data Science, Machine Learning, Natural Language Processing (NLP), Web/Application Development
 
 ---
 
@@ -143,12 +131,51 @@
           </a>
         </p>
         <p align="center">
-          <strong>15+ Projects</strong><br/>
+          <strong>Multiple Projects</strong><br/>
           Including ML models, web apps, APIs, and data analysis projects
         </p>
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 🧪 **Key Projects**
+
+### ExamFlow — Tamper-proof exam platform with AI proctoring
+- Designed modular dashboards using React, Node.js, and PostgreSQL with real-time monitoring and behavioural analytics pipelines.
+- Built adaptive mock exams leveraging Bayesian difficulty modeling, dynamic question banks, and personalized performance tracking.
+- Integrated AI-based proctoring via TensorFlow, and WebRTC for real-time identity verification and integrity scoring.
+- Deployed blockchain-backed certification on Ethereum (ERC-721) with Solidity smart contracts and IPFS-based credential storage.
+
+### OptiTrace — AI Driven Optic Fiber Fault Detection and Localization
+- Built an interactive Streamlit dashboard integrating TensorFlow and scikit-learn models for OTDR fault classification, regression-based localization, and reflectance/loss estimation.
+- Optimized a Google Colab–driven pipeline with normalization, feature scaling, and noise reduction to ensure robustness across heterogeneous OTDR datasets.
+- Implemented multi-source ingestion (CSV, manual, synthetic generation) and Plotly-based 2D/3D visualizations for advanced trace exploration.
+- Deployed LightGBM, Random Forest, and regression baselines with automated model/scaler loading, error handling, and export-ready analytical reports.
+
+### CardDetectML — Credit card fraud detection using ensemble models
+- Performed advanced exploratory data analysis on the Kaggle credit card fraud dataset with feature engineering, correlation mapping, and outlier treatment.
+- Implemented data balancing using SMOTE and undersampling to mitigate severe class imbalance and stabilize training.
+- Optimized and benchmarked ensemble classifiers — Random Forest, AdaBoost, XGBoost, and LightGBM — with hyperparameter tuning for maximum precision-recall tradeoff.
+- Deployed a production-ready Streamlit web app integrating visualization, model comparison dashboards, and real-time fraud prediction.
+
+---
+
+## 🏆 **Technical Accomplishments**
+
+- **Top 5 finish** at HackFest (36-hour national hackathon, 150+ teams, NMAM Institute, Nitte, KA)
+- **Won 2nd place** at RVCExIBM Project Expo for OptiTrace, evaluated by IBM field experts
+- **Completed** the Machine Learning Specialization course on Coursera and attended multiple ML workshops
+- **Solved 200+ problems** on platforms like LeetCode and GFG strengthening DSA
+
+---
+
+## 🌟 **Activity & Contributions**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay271&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=c9d1d9&area=true&area_color=00d4aa&area_alpha=0.1" alt="Contribution Graph" />
 </div>
 
 ---
@@ -167,6 +194,15 @@
 - 🤖 Implementing machine learning solutions
 - 🔒 Creating secure and robust applications
 - 📊 Working with data-driven insights
+
+---
+
+## 🤝 **Volunteering and Extracurricular Activities**
+
+- Passionate about football; also play cricket, badminton, and table tennis
+- Regular participant in community fitness events like the Cubbon Park Run and other charity marathons
+- Active in college NSS events, supporting social and sustainability initiatives
+- Volunteered in the Green Campus drive at Doordarshan Kendra, Bangalore, contributing to tree plantation efforts
 
 ---
 
