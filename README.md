@@ -20,18 +20,6 @@
 
 ---
 
-## 🏅 Academic Performance
-
-- **R.V College of Engineering (2023–2027)** — B.E in Computer Science and Engineering  
-  📌 **CGPA:** 9.68 / 10.0 (till 5th semester)  
-
-- **Sri Vidya Mandir Independent P.U College (2021–2023)**  
-  📌 **12th Board Exams:** 98.3%  
-
-- **10th Grade (2021)**  
-  📌 **Percentage:** 97.6%  
-
----
 
 ## 🎯 Daily Quote
 
@@ -242,4 +230,3 @@
 
 ---
 
-> _“Code is like humor. When you have to explain it, it's bad.”_ – Cory House
