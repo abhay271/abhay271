@@ -107,13 +107,6 @@
 
 ---
 
-## 🌟 **Activity & Contributions**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay271&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=c9d1d9&area=true&area_color=00d4aa&area_alpha=0.1" alt="Contribution Graph" />
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -128,16 +121,6 @@
 
 ---
 
-## 🎯 **What I'm Looking For**
-
-**I'm passionate about:**
-- 🚀 Building scalable backend systems and APIs
-- 💾 Designing efficient database architectures
-- 🤖 Implementing machine learning solutions
-- 🔒 Creating secure and robust applications
-- 📊 Working with data-driven insights
-
----
 
 ## 👀 Profile Views
 
@@ -163,13 +146,6 @@
 
 ---
 
-## 🚀 **Ready to Build Something Amazing?**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2000&color=00d4aa&center=true&vCenter=true&width=435&lines=Let's+create+something+incredible+together!;Ready+to+code+the+future!+%F0%9F%9A%80;Let's+build+scalable+solutions!+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
-
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/Available%20for%20Hiring-00d4aa?style=for-the-badge&logo=check-circle&logoColor=white" alt="Available for Hiring" />
