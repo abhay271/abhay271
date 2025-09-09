@@ -21,22 +21,6 @@
 
 ---
 
-## 🎓 Education
-
-- **R.V College of Engineering** — B.E in Computer Science and Engineering — CGPA: 9.68 (2023–2027)  
-- **Sri Vidya Mandir Independent P.U College** — 12th Board Exams: 98.3% (2023)  
-
----
-
-
-## 🎯 Daily Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
-</div>
-
----
-
 ## 🚀 Tech Stack
 
 ### 🎨 **Frontend Technologies**
@@ -142,6 +126,22 @@
   <a href="https://github.com/abhay271">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</div>
+
+---
+
+## 🎓 Education
+
+- **R.V College of Engineering** — B.E in Computer Science and Engineering — CGPA: 9.68 (2023–2027)  
+- **Sri Vidya Mandir Independent P.U College** — 12th Board Exams: 98.3% (2023)  
+
+---
+
+
+## 🎯 Daily Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
 </div>
 
 ---
