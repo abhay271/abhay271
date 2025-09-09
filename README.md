@@ -15,8 +15,21 @@
 
 ## 🎓 Education
 
-- **R.V College of Engineering** — B.E in Computer Science and Engineering — CGPA: 9.68 (2023–2027)
-- **Sri Vidya Mandir Independent P.U College** — 12th Board Exams: 98.3% (2023)
+- **R.V College of Engineering** — B.E in Computer Science and Engineering — CGPA: 9.68 (2023–2027)  
+- **Sri Vidya Mandir Independent P.U College** — 12th Board Exams: 98.3% (2023)  
+
+---
+
+## 🏅 Academic Performance
+
+- **R.V College of Engineering (2023–2027)** — B.E in Computer Science and Engineering  
+  📌 **CGPA:** 9.68 / 10.0 (till 5th semester)  
+
+- **Sri Vidya Mandir Independent P.U College (2021–2023)**  
+  📌 **12th Board Exams:** 98.3%  
+
+- **10th Grade (2021)**  
+  📌 **Percentage:** 97.6%  
 
 ---
 
@@ -29,7 +42,6 @@
 ---
 
 ## 🚀 Tech Stack
-
 
 ### 🎨 **Frontend Technologies**
 ![React.js](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -158,8 +170,20 @@
 
 ---
 
-## 🎯 **What I'm Looking For**
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay271&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay271&theme=github-dark&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&background=0d1117&dates=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay271&layout=compact&theme=github_dark&hide_border=true&title_color=00d4aa&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+---
+
+## 🎯 **What I'm Looking For**
 
 **I'm passionate about:**
 - 🚀 Building scalable backend systems and APIs
