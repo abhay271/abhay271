@@ -13,6 +13,14 @@
 
 ---
 
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhay271&color=00d4aa&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
 ## 🎓 Education
 
 - **R.V College of Engineering** — B.E in Computer Science and Engineering — CGPA: 9.68 (2023–2027)  
@@ -122,14 +130,6 @@
 ---
 
 
-## 👀 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhay271&color=00d4aa&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
 ## 📫 **Let's Connect!**
 
 <div align="center">
@@ -145,12 +145,3 @@
 </div>
 
 ---
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Available%20for%20Hiring-00d4aa?style=for-the-badge&logo=check-circle&logoColor=white" alt="Available for Hiring" />
-  <img src="https://img.shields.io/badge/Response%20Time-24hrs-00d4aa?style=for-the-badge&logo=clock&logoColor=white" alt="Response Time" />
-</div>
-
----
-
