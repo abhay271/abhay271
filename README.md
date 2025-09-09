@@ -13,13 +13,6 @@
 
 ---
 
-## Profile Views
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=abhay271&color=00d4aa&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
 
 ## 🚀 Tech Stack
 
@@ -142,6 +135,14 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
+</div>
+
+---
+
+## Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhay271&color=00d4aa&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
