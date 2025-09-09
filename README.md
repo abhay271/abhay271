@@ -95,14 +95,7 @@
 
 ---
 
-## 🏆 **Technical Accomplishments**
-
-- **Top 5 finish** at HackFest (36-hour national hackathon, 150+ teams, NMAM Institute, Nitte, KA)
-- **Won 2nd place** at RVCExIBM Project Expo for OptiTrace, evaluated by IBM field experts
-- **Completed** the Machine Learning Specialization course on Coursera and attended multiple ML workshops
-- **Solved 200+ problems** on platforms like LeetCode and GFG strengthening DSA
-
-## 🏗️ **All projects**
+## **All projects**
 
 <div align="center">
   <a href="https://github.com/abhay271?tab=repositories">
