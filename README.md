@@ -13,9 +13,9 @@
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=abhay271&color=00d4aa&style=for-the-badge" alt="Profile Views" />
 </div>
 
