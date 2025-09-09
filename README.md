@@ -64,54 +64,8 @@
 
 ---
 
-## 🎯 **Core Competencies**
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🚀 Backend Development</b></td>
-      <td>RESTful APIs, Microservices, Authentication, JWT, Middleware</td>
-    </tr>
-    <tr>
-      <td><b>💾 Database Design</b></td>
-      <td>Schema Design, Query Optimization, Data Modeling, Indexing</td>
-    </tr>
-    <tr>
-      <td><b>🔒 Security</b></td>
-      <td>JWT, bcrypt, Input Validation, CORS, Rate Limiting</td>
-    </tr>
-    <tr>
-      <td><b>📊 Data Science</b></td>
-      <td>Machine Learning, Statistical Analysis, Data Visualization</td>
-    </tr>
-    <tr>
-      <td><b>🔄 DevOps</b></td>
-      <td>Git Workflow, CI/CD, API Testing, Performance Optimization</td>
-    </tr>
-  </table>
-</div>
 
----
-
-## 🧰 Skills
-
-- **Programming Languages:** C, C++, Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Node.js, React.js, NumPy, Pandas, Scikit-learn, TensorFlow
-- **Databases:** MySQL, MongoDB
-- **Developer Tools:** Git, GitHub, Visual Studio Code
-- **Areas of Interest:** Backend Development, Data Science, Machine Learning, Natural Language Processing (NLP), Web/Application Development
-
----
-
-## 🏗️ **Featured Projects**
-
-<div align="center">
-  <a href="https://github.com/abhay271?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-00d4aa?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
-  </a>
-</div>
-
----
 
 ## 🧪 **Key Projects**
 
@@ -148,6 +102,16 @@
 - **Completed** the Machine Learning Specialization course on Coursera and attended multiple ML workshops
 - **Solved 200+ problems** on platforms like LeetCode and GFG strengthening DSA
 
+## 🏗️ **All projects**
+
+<div align="center">
+  <a href="https://github.com/abhay271?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-00d4aa?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
+</div>
+
+---
+
 ---
 
 ## 🌟 **Activity & Contributions**
@@ -179,15 +143,6 @@
 - 🤖 Implementing machine learning solutions
 - 🔒 Creating secure and robust applications
 - 📊 Working with data-driven insights
-
----
-
-## 🤝 **Volunteering and Extracurricular Activities**
-
-- Passionate about football; also play cricket, badminton, and table tennis
-- Regular participant in community fitness events like the Cubbon Park Run and other charity marathons
-- Active in college NSS events, supporting social and sustainability initiatives
-- Volunteered in the Green Campus drive at Doordarshan Kendra, Bangalore, contributing to tree plantation efforts
 
 ---
 
